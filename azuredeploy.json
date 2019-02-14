@@ -38,11 +38,11 @@
 		  "replicaCount":1,
 		  "targetRegions": [
 			{"name": "canadacentral"},
-			{"name": "westeurope"},
+			{"name": "eastus"},
 			{"name": "eastus2"},
 			{"name": "northcentralus"},
 			{"name": "northeurope", "regionalReplicaCount":2},
-			{"name": "southcentralus"},
+			{"name": "westeurope"},
 			{"name": "westcentralus"},
 			{"name": "westus"},
 			{"name": "westus2"}
